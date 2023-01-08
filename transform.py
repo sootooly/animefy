@@ -25,3 +25,4 @@ def transform_image(image_data):
   transformed_image = requests.get(transformed_image_data)
 
   return transformed_image.content
+
