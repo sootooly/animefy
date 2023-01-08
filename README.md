@@ -19,9 +19,10 @@ The Animefy Telegram Bot is a Python program that allows users to transform thei
 1. Clone the repository: `git clone https://github.com/USERNAME/REPOSITORY_NAME.git`
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Create a `config.ini` file in the root directory with the following contents:
-'[DEFAULT]
-api_key = YOUR_API_KEY
-bot_token = YOUR_BOT_TOKEN'
+
+`[DEFAULT]`
+`api_key = YOUR_API_KEY`
+`bot_token = YOUR_BOT_TOKEN`
 
 
 Replace `YOUR_API_KEY` with your deepai API key, and `YOUR_BOT_TOKEN` with your Telegram bot token.
