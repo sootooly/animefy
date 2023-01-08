@@ -16,7 +16,7 @@ The Animefy Telegram Bot is a Python program that allows users to transform thei
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/USERNAME/REPOSITORY_NAME.git`
+1. Clone the repository: `git clone https://github.com/sootooly/animefy.git`
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Create a `config.ini` file in the root directory with the following contents:
 
@@ -37,4 +37,17 @@ Replace `YOUR_API_KEY` with your deepai API key, and `YOUR_BOT_TOKEN` with your 
 
 ## Contributions
 
-We welcome contributions to the Animefy Bot! If you have an idea for a new feature or have found a bug, please [open an issue](https://github.com/USERNAME/REPOSITORY_NAME/issues) or [submit a pull request](https://github.com/USERNAME/REPOSITORY
+We welcome contributions to the Animefy Bot! If you have an idea for a new feature or have found a bug, please [open an issue](https://github.com/sootooly/animefy/issues) or [submit a pull request](https://github.com/sootooly/animefy/pulls). Please see the [contributing guidelines](https://github.com/sootooly/animefy/blob/master/CONTRIBUTING.md) for more information.
+
+## License
+
+The Animefy Telegram Bot is licensed under the MIT License. See [LICENSE](https://github.com/sootooly/animefy/blob/master/LICENSE) for more information.
+
+## Acknowledgements
+
+- [deepai](https://deepai.org) for the anime style transfer model
+- [python-telegram-bot](https://python-telegram-bot.org) for the Telegram API wrapper
+
+## Contact
+
+If you have any questions or feedback, please don't hesitate to contact us at EMAIL_ADDRESS.
